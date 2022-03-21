@@ -12,23 +12,13 @@ headingDivider: 3
 paginate: true 
 
 # 这个会决定生成的html的标题
-title: 第一讲：基本概念 
-
-footer: 全局页脚
-header: 全局页首
+title: 国际图像交互框架（IIIF）的研究 
 ---
 
-# 大标题
-1. 内容
-1. 内容
-![bg fit right](images/msgraph.png)
-
-## 二级标题
+# 国际图像交互框架（IIIF）的研究
+> 陈希章 https://iiif.xizhang.com
 
 
-## 二级标题
-<!-- 备注文字，可以在演讲者模式中使用 -->
+## 安装测试服务器
+<!-- footer: 国际图像交互框架（IIIF）的研究 https://iiif.xizhang.com -->
 
-## 二级标题
-
-![w:300](images/msgraph.png)
